@@ -1,0 +1,11 @@
+[project]
+name = "comtor-llm"
+version = "0.1.0"
+description = "CLI tool for LLM-based translation"
+requires-python = ">=3.10"
+dependencies = [
+    "litellm",
+    "python-dotenv",
+    "fire",
+    "tqdm"
+]
