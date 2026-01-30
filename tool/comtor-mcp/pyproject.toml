@@ -1,0 +1,8 @@
+[project]
+name = "comtor-mcp"
+version = "0.1.0"
+description = "MCP server for Comtor translation tasks"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp",
+]

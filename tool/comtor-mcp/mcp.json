@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "comtor-mcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/home/kozocom/Workspace/research/translate-tools/tool/comtor-mcp",
+        "server.py"
+      ],
+      "env": {}
+    }
+  }
+}
